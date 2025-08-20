@@ -1,3 +1,2 @@
-# Repository Settings
-repository:
-  archive: true
+settings:
+  archive: false
